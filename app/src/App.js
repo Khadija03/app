@@ -1,9 +1,8 @@
 import React from 'react'
 import './App.css';
 import './index.css';
-import Header from './Componants/Header'
-import Footer from './Componants/Footer'
-import Body from './Componants/Body'
+import Header from './Components/Header'
+import Body from './Components/Body'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
